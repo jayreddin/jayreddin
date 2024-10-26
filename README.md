@@ -1,4 +1,14 @@
-## Hi there 👋
+# **Jamie Websites:**
+  
+## *  [Portfolio](https://jayreddin.github.io/PortfolioJamie/)
+
+## * [Air To Water Search](https://jayreddin.github.io/JamieAirToWater/)
+
+## * [Facebook Nixer Page](https://facebook.com/Handyman.Dublin.Jamie/)
+
+## * [Tiktok](https://tiktok.com/@jay.jay_2.0)
+
+
 
 <!--
 **jayreddin/jayreddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
