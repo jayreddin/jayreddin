@@ -2,6 +2,9 @@
   
 ## *  [Portfolio](https://jayreddin.github.io/PortfolioJamie/)
 
+## * [All My Links](https://jayreddin.github.io/JamieLinks/)
+
+
 ## * [Air To Water Search](https://jayreddin.github.io/JamieAirToWater/)
 
 ## * [Facebook Nixer Page](https://facebook.com/Handyman.Dublin.Jamie/)
