@@ -1,6 +1,6 @@
 # **Jamie Websites:**
 
-##* [Code Search](https://jayreddin.github.io/CodeSearch2/)
+## * [Code Search](https://jayreddin.github.io/CodeSearch2/)
   
 ## *  [Portfolio](https://jayreddin.github.io/PortfolioJamie/)
 
