@@ -6,6 +6,8 @@
 
 ## * [All My Links](https://jayreddin.github.io/JamieLinks/)
 
+## * [JR-AI-Chat Puter](https://jayreddin.github.io/JR-AI-Chat-app/)
+
 
 ## * [Air To Water Search](https://jayreddin.github.io/JamieAirToWater/)
 
